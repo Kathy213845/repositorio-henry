@@ -1,0 +1,43 @@
+
+
+h1{
+    color: blueviolet;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+margin-left: auto;
+margin-right: auto;
+    width: 500px;
+    height: 600px;
+    background-color:cyan;
+    padding: 50px;
+    border: 4px solid palevioletred;
+    
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    
+}
+
+body{
+
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+  'Helvetica Neue', Arial, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+   text-align: center;
+    background-image: url("https://image.freepik.com/foto-gratis/fondo-acuarela-pintada-mano-forma-cielo-nubes_24972-1095.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#img-div {
+    background: rgb(21, 23, 24);
+    padding: 10px;
+    margin: 0;
+}
+
